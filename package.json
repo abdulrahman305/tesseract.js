@@ -36,7 +36,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@babel/core": "^7.21.4",
-    "@babel/eslint-parser": "^7.21.3",
+    "@babel/eslint-parser": "^7.24.8",
     "@babel/preset-env": "^7.21.4",
     "@rollup/plugin-commonjs": "^24.1.0",
     "acorn": "^8.8.2",
