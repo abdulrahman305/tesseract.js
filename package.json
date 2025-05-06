@@ -38,7 +38,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/eslint-parser": "^7.21.3",
-    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-env": "^7.27.1",
     "@rollup/plugin-commonjs": "^24.1.0",
     "acorn": "^8.8.2",
     "babel-loader": "^9.1.2",
